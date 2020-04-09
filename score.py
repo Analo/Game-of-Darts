@@ -2,8 +2,6 @@
 """
 This is a function given a point in a target,(defined by its real cartesian coordinates x and y),
 it returns the correct amount earned by a dart landing in that point.
-
-
 """
 
 from math import sqrt
