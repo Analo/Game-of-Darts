@@ -27,20 +27,22 @@ Step2: Install Pytest. https://docs.pytest.org/en/latest/getting-started.html
                    --Used Version: 5.4.1 ---
 
 
-Step3: Download/clone this repository on your local environment
+Step3: Download  this repository on your local environment.
 
-## Running the Environment
+## Running the Test
 
 To run the tests, run `pytest score_test.py`
-
- 
-
 
 Alternatively, you can tell Python to run the pytest module:
 `python -m pytest score_test.py`
 
-You can also run score.py module using python IDLE to see the results of  dart landing in different points .
+You can also run score.py module using python  to see the results of  dart landing in different points .
 
- 
+   >>> score (0,10)
+   >>> 1
+   >>> score (0,5)
+   >>> 5
+   >>> score (0,1)
+   >>> 10
 
 
