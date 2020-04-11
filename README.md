@@ -17,7 +17,7 @@ X coordinate here is 0, while Y coordinate is 10, score is 1
 
                                                   <<< END OF QUESTION >>>
 -------------------------------------------------------------------------------------------------------------------------------------
-SOLUTION:
+## Solution
 
 ## Setting Up the Environment
 
