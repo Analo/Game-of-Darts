@@ -14,6 +14,8 @@ Your job...err...task, is to write a function(let us call it score) that given a
 Example:
 >>> score(0, 10) 1
 X coordinate here is 0, while Y coordinate is 10, score is 1 
+
+                                                  <<< END OF QUESTION >>>
 -------------------------------------------------------------------------------------------------------------------------------------
 SOLUTION:
 
@@ -29,6 +31,8 @@ Step2: Install Pytest. https://docs.pytest.org/en/latest/getting-started.html
 Step3: Download  this repository on your local environment.
 
 ## Running the Test
+
+To run the tests you need to pass the name of the testsuite file to pytest. As shown below.
 
 To run the tests, run `pytest score_test.py`
 
