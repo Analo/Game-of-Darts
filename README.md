@@ -1,4 +1,4 @@
-# Question One: Darts Function
+# Game of Darts Function
 
 Let us play a game of darts. Shall we? You know darts? I bet you do! Either way, I shall give you a very simple explanation. Darts is a fame where players throw darts to a target. The target is often circular and in this case, it will be circular as well. In our particular instance of the game, the target rewards with 4 different amounts of points, depending on where the dart lands.
 
