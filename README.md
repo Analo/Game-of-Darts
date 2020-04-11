@@ -19,7 +19,7 @@ X coordinate here is 0, while Y coordinate is 10, score is 1
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Solution
 
-## Setting Up the Environment
+### Setting Up the Environment
 
 Step1: Install python on your machine depending on the Operating System you are using. https://www.python.org/downloads/
                   --Used Version: 3.7.7 ---
@@ -30,7 +30,7 @@ Step2: Install Pytest. https://docs.pytest.org/en/latest/getting-started.html
 
 Step3: Download  this repository on your local environment.
 
-## Running the Test
+### Running the Test
 
 To run the tests you need to pass the name of the testsuite file to pytest. As shown below.
 
